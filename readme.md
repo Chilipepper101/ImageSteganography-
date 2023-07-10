@@ -1,0 +1,1 @@
+**This is an exe program that embeds text into images through steganography. A password must be provided during both the embedding and extraction process.**
